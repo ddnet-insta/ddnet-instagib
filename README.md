@@ -1,6 +1,6 @@
 # ddnet-insta
 
-[![ddnet-insta](other/ddnet-insta.png)](https://github.com/ddnet-insta/ddnet-insta) [![](https://github.com/ddnet-insta/ddnet-insta/workflows/Build/badge.svg)](https://github.com/ddnet-insta/ddnet-insta/actions?query=workflow%3ABuild+event%3Apush+branch%3Amaster)
+[![ddnet-insta](https://raw.githubusercontent.com/ddnet-insta/ddnet-insta/refs/heads/insta/other/ddnet-insta.png)](https://github.com/ddnet-insta/ddnet-insta) [![](https://github.com/ddnet-insta/ddnet-insta/workflows/Build/badge.svg)](https://github.com/ddnet-insta/ddnet-insta/actions?query=workflow%3ABuild+event%3Apush+branch%3Amaster)
 
 You are probably looking for [ddnet-insta](https://github.com/ddnet-insta/ddnet-insta)
 
